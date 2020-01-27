@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FancyGallery</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="text_placeholder">TBD</string>
+    <string name="no_pictures_to_show">No pictures to show</string>
+    <string name="image_placeholder">Image Placeholder</string>
+    <string name="hide_folder">Hide</string>
+    <string name="manage_hidden">Manage hidden folders</string>
+    <string name="reveal_desc">Button that reveals the corresponding folder</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_hidden_folders">No hidden folders</string>
+    <string name="sort_images">Sort Images</string>
+    <string name="name_descending">Name descending</string>
+    <string name="name_ascending">Name ascending</string>
+    <string name="count_ascending">Count ascending</string>
+    <string name="count_descending">Count descending</string>
+    <string name="current_image">Current Image</string>
+    <string name="date_modified_ascending">Date modified ascending</string>
+    <string name="date_modified_descending">Date modified descending</string>
+    <string name="date_taken_ascending">Date taken ascending</string>
+    <string name="date_taken_descending">Date taken descending</string>
+</resources>
